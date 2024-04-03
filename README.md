@@ -14,3 +14,12 @@ Error terjadi karena komponen yang diimpor membutuhkan createContext yang hanya 
 ![Screenshot](assets/Screenshot_22.png)  
 ![Screenshot](assets/Screenshot_21.png)  
 
+> Soal 3  
+![Screenshot](assets/Screenshot_3.png)  
+- Menggunakan useContext untuk Membaca Context. useContext adalah sebuah Hook yang memungkinkan Anda menggunakan nilai dari Context tanpa perlu menulis Consumer. useContext akan membaca nilai dari Context yang Anda berikan (dalam kasus ini, LevelContext).
+
+- Menggunakan Context untuk Menentukan Ukuran Heading. Section menerima children dan menambahkan 1 ke level sebelumnya. Dengan demikian, semua Heading yang berada di dalam Section akan memiliki ukuran yang lebih besar dari Heading yang berada di luar Section.
+
+
+
+
