@@ -20,6 +20,8 @@ Error terjadi karena komponen yang diimpor membutuhkan createContext yang hanya 
 
 - Menggunakan Context untuk Menentukan Ukuran Heading. Section menerima children dan menambahkan 1 ke level sebelumnya. Dengan demikian, semua Heading yang berada di dalam Section akan memiliki ukuran yang lebih besar dari Heading yang berada di luar Section.
 
+> Soal 4   
+![Screenshot](assets/Screenshot_31.png) 
 
 
 
