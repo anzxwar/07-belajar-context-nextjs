@@ -4,11 +4,11 @@ import Section from "../atoms/section";
 export default function MainPage() {
     return (
         <Section>
-            <Heading>Title</Heading>
+            <Heading>Anwar Alif Katresna 2341728026</Heading>
             <Section>
-                <Heading>Heading</Heading>
-                <Heading>Heading</Heading>
-                <Heading>Heading</Heading>
+                <Heading>About</Heading>
+                <Heading>contacts</Heading>
+                <Heading>Profil</Heading>
                 <Section>
                     <Heading>Sub-heading</Heading>
                     <Heading>Sub-heading</Heading>

@@ -24,4 +24,21 @@ Error terjadi karena komponen yang diimpor membutuhkan createContext yang hanya 
 ![Screenshot](assets/Screenshot_31.png) 
 
 
+> Soal 5 Silakan save semua dan lakukan running di browser Anda. Capture hasilnya dan buatlah laporan di README.md. Tambahkan teks Nama dan NIM pada setiap page routing agar menunjukkan itu hasil kerja Anda sendiri!
+   
+Apakah toggle button tema sudah berfungsi ? jika belum, silakan perbaiki!
+Tema sudah berfungsi dengan baik. Ketika tombol toggle ditekan, tema akan berubah dari light ke dark atau sebaliknya.
+![Screenshot](assets/Screenshot_32.png) 
+![Screenshot](assets/Screenshot_33.png) 
+![Screenshot](assets/Screenshot_34.png) 
+![Screenshot](assets/Screenshot_35.png) 
+![Screenshot](assets/Screenshot_36.png)
+
+Mengapa ketika refresh atau berpindah halaman tema tidak permanen ? Buatlah menjadi permanen walaupun page sudah direfresh dan pindah halaman!
+Ketika halaman direfresh atau berpindah, tema tidak permanen karena state tema tidak disimpan. Untuk membuatnya permanen, dapat menggunakan localStorage untuk menyimpan state tema.
+
+
+
+
+
 
